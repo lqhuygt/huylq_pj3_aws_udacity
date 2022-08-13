@@ -1,5 +1,4 @@
 URL01: https://github.com/lqhuygt/huylq_pj3_aws_udacity/tree/main
 
-URL02: http://udapeople-dcf2f8c.s3-website-us-east-1.amazonaws.com/#/employees
+URL02: http://udapeople-6770014.s3-website-us-east-1.amazonaws.com/
 
-https://s3.console.aws.amazon.com/s3/buckets/udapeople-dcf2f8c?region=us-east-1&tab=objects
